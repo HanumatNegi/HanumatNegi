@@ -20,7 +20,7 @@ To Do:
 
 Here are some of my recent projects:
 
-1. <a href="https://github.com/HanumatNegi/UNSW-NB15-MachineLearning-and-DeepLearning">**[ML Model for Classification Tasks](#)** </a>– A machine learning project focused on classification, leveraging Scikit-Learn and TensorFlow.
+1. <a href="https://github.com/HanumatNegi/UNSW-NB15-MachineLearning-and-DeepLearning"><b>ML Model for Classification Tasks</b></a>– A machine learning project focused on classification, leveraging Scikit-Learn and TensorFlow.
 
 
 ## Let's Connect
