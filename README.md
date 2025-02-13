@@ -21,7 +21,7 @@ To Do:
 Here are some of my recent projects:
 
 1. <a href="https://github.com/HanumatNegi/UNSW-NB15-MachineLearning-and-DeepLearning"><b>ML Model for Classification Tasks</b></a>– A machine learning project focused on classification, leveraging Scikit-Learn and TensorFlow.
-2. <a href=""><b>DeepLearning Model for Apple Disease classification</b></a>- A DL Model leveraging on the architecture of VGG-19 with the collaboration of depthwise separable neural networking and identity mapping of residual network, creating a Hybrid VGG-19
+2. <a href="https://github.com/HanumatNegi/Hybrid_VGG19_Apple_disease"><b>DeepLearning Model for Apple Disease classification</b></a>- A DL Model leveraging on the architecture of VGG-19 with the collaboration of depthwise separable neural networking and identity mapping of residual network, creating a Hybrid VGG-19
 
 
 ## Let's Connect
